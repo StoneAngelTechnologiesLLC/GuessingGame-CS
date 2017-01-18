@@ -1,0 +1,3 @@
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\bin\Debug\JohnPietrangelo5GuessGame.exe.config
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\obj\Debug\JohnPietrangelo5GuessGame.exe
+C:\Users\John Pietrangelo\Documents\Visual Studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\obj\Debug\JohnPietrangelo5GuessGame.pdb

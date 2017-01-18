@@ -1,0 +1,6 @@
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\bin\Debug\JohnPietrangelo5GuessGame.exe.config
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\bin\Debug\JohnPietrangelo5GuessGame.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\bin\Debug\JohnPietrangelo5GuessGame.pdb
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\obj\Debug\JohnPietrangelo5GuessGame.csprojResolveAssemblyReference.cache
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\obj\Debug\JohnPietrangelo5GuessGame.exe
+c:\users\john pietrangelo\documents\visual studio 2012\Projects\JohnPietrangelo5GuessGame\JohnPietrangelo5GuessGame\obj\Debug\JohnPietrangelo5GuessGame.pdb
